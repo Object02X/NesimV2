@@ -8,4 +8,4 @@ pip install pystyle
 pip install webbrowser
 pip install socket
 pip install os
-start C:\Users\Matt\Desktop\Zodiac-main\main.py
+start C:\Users\Matt\Desktop\NesimV2-main\main.py
